@@ -1,4 +1,4 @@
-User.create!(name:  "Sonu Kumar",
+User.create!(name:  "Sonu Gaur",
              email: "sonu@cyberdude.com",
              password:              "foobar",
              password_confirmation: "foobar",

@@ -261,7 +261,7 @@ input {
   }
   .content {
     display: block;
-    margin-left: 60px;
+    
     img {
       display: block;
       padding: 5px 0;
@@ -269,14 +269,14 @@ input {
 }
     .title {
     display: block;
-    margin-left: 60px;
+    
     font-color: blue;
   }
   
   .timestamp {
     color: $gray-light;
     display: block;
-    margin-left: 60px;
+    
   }
   .gravatar {
     float: left;
@@ -297,4 +297,9 @@ span.picture {
   input {
     border: 0;
   }
+}
+
+.xyz{
+  
+  margin-left: auto;
 }
